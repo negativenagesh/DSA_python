@@ -1,10 +1,3 @@
-Question---->
-
-
-
-
-Answer---->
-
 class Solution(object):
     def singleNumber(self, nums):
         result=0
@@ -17,13 +10,13 @@ class Solution(object):
         :rtype: int
         """
         
-Result---->
+# Result---->
 
-Your input:
-[2,2,1]
+# Your input:
+# [2,2,1]
 
-Output:
-1
+# Output:
+# 1
 
-Expected:
-1
+# Expected:
+# 1
